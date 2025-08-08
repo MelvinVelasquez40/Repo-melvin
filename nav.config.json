@@ -9,6 +9,16 @@
       "id": "Menu_SignUp",
       "nav_url": "index.php?page=Sec_Register",
       "nav_label":"<i class=\"fas fa-sign-in-alt\"></i>&nbsp;Crear Cuenta"
+    },
+     {
+      "id": "Menu_SignUp",
+      "nav_url": "index.php?page=Sec_Register",
+      "nav_label":"<i class=\"fas fa-sign-in-alt\"></i>&nbsp;Crear Cuenta"
+    },
+    {
+      "id": "Medicamentos",
+      "nav_url": "index.php?page=Sec_Medicamentos_RecordatorioList",
+      "nav_label":"<i class=\"fas fa-sign-in-alt\"></i>&nbsp;Medicamentos"
     }
   ],
   "private": [
@@ -16,6 +26,16 @@
       "id":"Menu_PaymentCheckout",
       "nav_url": "index.php?page=Checkout_Checkout",
       "nav_label": "Carretilla de Compra"
+    },
+     {
+      "id": "Medicamentos",
+      "nav_url": "index.php?page=Sec_Medicamentos_RecordatorioList",
+      "nav_label":"<i class=\"fas fa-sign-in-alt\"></i>&nbsp;Medicamentos"
+    },
+     {
+      "id": "Menu_SignUp",
+      "nav_url": "index.php?page=Sec_Register",
+      "nav_label":"<i class=\"fas fa-sign-in-alt\"></i>&nbsp;Crear Cuenta"
     }
   ]
 }
