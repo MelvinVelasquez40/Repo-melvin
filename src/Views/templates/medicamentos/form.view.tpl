@@ -29,7 +29,7 @@
         <input type="number" name="edad" id="edad" value="{{edad}}" {{isReadOnly}} required min="0" max="120">
       </div>
 
-      <!-- Nombre del familiar -->
+      <!-- Nombre del  familiar -->
       <div>
         <label for="nombre_familiar">Nombre del Familiar</label>
         <input type="text" name="nombre_familiar" id="nombre_familiar" value="{{nombre_familiar}}" {{isReadOnly}} required>
