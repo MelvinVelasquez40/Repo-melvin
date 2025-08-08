@@ -5,6 +5,6 @@ CREATE TABLE recordatorio_medicamentos (
   nombre_familiar VARCHAR(100),
   email_familiar VARCHAR(100),
   telefono_familiar VARCHAR(20),
-  frecuencia_dosis VARCHAR(50),
+  frecuencia_dosis  VARCHAR(50),
   comentario TEXT
 );
